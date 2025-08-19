@@ -27,4 +27,4 @@ welcome to my github profile! ze caves..
 ---
 
 :: my current os ::
-- kde <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Kde-logo.svg" width="16"/>
+- kde <img src="https://kde.org/content/products/neon.png" width="16"/>
