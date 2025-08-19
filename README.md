@@ -13,7 +13,7 @@ welcome to my github profile! ze caves..
 ---
 
 **skills**
-- programming: HTML, CSS, and HTML JS
+- programming: HTML, CSS, and HTML JS (and a lil bit of python)
 - tools: DA code (mah own coding thingy heheh based off ze VS CODE!)
 - other: nothing thats all
 
