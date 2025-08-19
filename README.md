@@ -1,30 +1,30 @@
-# Hi there, I'm [Your Name] 👋
+hi there, i'm dani :-)
 
-Welcome to my GitHub profile! This is just a simple test to see how a GitHub About Me page looks.
-
----
-
-## 🔹 About Me
-- 🌱 Learning new things every day
-- 👨‍💻 Interested in coding and software development
-- 🎮 Enjoy gaming and experimenting with projects
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+welcome to my github profile! ze caves..
 
 ---
 
-## 🔹 Skills
-- Programming: Python, JavaScript, HTML/CSS
-- Tools: Git, GitHub, VS Code
-- Other: Basic graphic design, problem solving
+:: about me ::
+- * learning new things every other year cuz im lazy :)
+- * interested in being lazy 👍
+- * enjoy gaming and tampering with existing open source stuffs
+- * how to reach me: [kealelol1@gmail.com](mailto:kealelol1@gmail.com)
 
 ---
 
-## 🔹 Projects
-Here are some sample projects I'm testing on GitHub:
-- [Project 1](#) – Description of project 1
-- [Project 2](#) – Description of project 2
+:: skills ::
+- programming: HTML, CSS, and HTML JS
+- tools: DA code (mah own coding thingy heheh based off ze VS CODE!)
+- other: nothing thats all
 
 ---
 
-## 🔹 Fun Fact
-I’m testing how this About Me page looks before I fully customize it!
+:: fun facts ::
+- ive been into html since i was 8
+- i like cookies
+- am a rootbeer fanatic (i luv rootbeer sm)
+
+---
+
+:: my current os ::
+- kde <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Kde-logo.svg" width="16"/>
