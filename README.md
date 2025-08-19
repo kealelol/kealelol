@@ -27,4 +27,5 @@ welcome to my github profile! ze caves..
 ---
 
 :: my current os ::
-[<img src="https://kde.org/content/products/neon.png" width="32"/>](https://neon.kde.org)
+- [<img src="https://kde.org/content/products/neon.png" width="32"/>](https://neon.kde.org)
+
